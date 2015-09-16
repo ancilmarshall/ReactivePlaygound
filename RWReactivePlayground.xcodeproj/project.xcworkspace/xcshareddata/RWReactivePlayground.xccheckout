@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6E39D2A-23E7-4CEE-AEFB-39E9E6A0A6A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RWReactivePlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D1CF996C15F619B9537A1457F2BD8BAA7F909B97</key>
+		<string>github.com:ancilmarshall/ReactivePlaygound.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RWReactivePlayground.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D1CF996C15F619B9537A1457F2BD8BAA7F909B97</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ancilmarshall/ReactivePlaygound.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D1CF996C15F619B9537A1457F2BD8BAA7F909B97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1CF996C15F619B9537A1457F2BD8BAA7F909B97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReactivePlayground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
